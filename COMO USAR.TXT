@@ -1,0 +1,5 @@
+Exemplo de Utilização (CMD Windows): 
+	Ex1: API_Generator_MCD.jar "br.com.achimid.model" "ControllerVenda.java" "DaoVenda.java" 
+	Ex2: API_Generator_MCD.jar "br.com.achimid.model" "ControllerVenda.java" "DaoVenda.java" "DAO" "CONTROLLER"
+	
+	
